@@ -1,0 +1,122 @@
+body{
+	font-family:cursive;
+	font-weight: bold;
+}
+span{
+	color: red;
+	break-inside: ;
+}
+marquee{
+	font-size: 18px;
+	color: blueviolet;
+}
+.card{
+	align-content: center;
+}
+.home{
+	font-family: serif;
+	font-weight:100px;
+	margin: 30px;
+	font-size: 20px;
+	background-color:lavender;
+}
+nav{
+	position:sticky;
+	top: 0;
+
+}
+h1.head{
+	color: white;
+	text-shadow: 3px 3px black;
+}
+ul.navbar-nav{
+	margin-left: 250px;
+}
+.doctors{
+	margin: 150px;
+	border-style: solid;
+	background-size: 30px;
+	background-color: seagreen;
+	
+}
+.input{
+	border-radius: 3px;
+	box-sizing: border-box;
+	margin-top: 10px;
+	padding: 10px;
+}
+
+.doctorinformations1 h1{
+text-align: center;
+	}
+
+.doctorinformations1 h3{
+	color: black;
+}
+/*footer*/
+.footer{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color:#24262b ;
+	padding: 70px 0;
+	height: 261px;
+}
+
+.ul{
+	list-style: none;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+.footer-col p{
+	color: white;
+}
+.footer-col li{
+	color: white;
+}
+.footer-col{
+	width: 25%;
+	padding: 0 15px;
+	margin-right: 70px;
+}
+.footer-col h4,h3{
+    color:#ffffff;
+    font-size: 18px;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    
+}
+.footer-col h4::before{
+	background-color: #e91e63;
+	height: 2px;
+	width: 50px;
+	box-sizing: border-box;
+	position: absolute;
+
+}
+.footer-col h1,h4,li{
+	color: white;
+}
+.footer-col h3{
+	color: white;
+}
+
+
+.social-links{
+	color:white;
+}
+
+.card{
+	float: right;
+}
+.input{
+	border: none;
+}
+.footer-col li{
+	list-style: none;
+}
+.Social-links li{
+	display: inline-block;
+}

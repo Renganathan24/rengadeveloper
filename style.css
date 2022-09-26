@@ -35,6 +35,7 @@ section{
 	justify-content: center;
 	align-items: center;
 }
-.contact container{
+.contactcontainer{
       top:700px;
+	margin-top:300px;
 }
